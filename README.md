@@ -40,6 +40,10 @@ Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.or
 
 - [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/> MongoDB Atlas](https://www.mongodb.com/atlas/database)
 
+- [mongoose](https://mongoosejs.com/)
+
+- [axios](https://axios-http.com/docs/intro)
+
 - [<img width="30" height="30" src="https://img.icons8.com/color/30/tailwindcss.png" alt="tailwindcss"/> Tailwindcss](https://tailwindcss.com/) (PostCSS)
 
 - [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-eslint-pluggable-and-configurable-linter-tool-for-identifying-and-reporting-on-patterns-in-javascript-logo-color-tal-revivo.png" alt="eslint pluggable and configurable linter tool for identifying and reporting on patterns in javascript"/> ESLint](https://eslint.org/)
