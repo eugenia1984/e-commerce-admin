@@ -9,6 +9,7 @@ Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.or
 
 - [Demo](#demo📦)
 - [Features](#features📢)
+- [Technologies](#technologies🛠️)
 - [Notes](#Notes)
 
 ---
@@ -22,7 +23,26 @@ Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.or
 
 ## Features📢
 
-✔️ React-DOM
+✔️ Login
+
+✔️ Admin panel
+
+---
+
+## Technologies🛠️
+
+- React
+
+- React-DOM
+
+- Next
+
+- Next-Auth
+
+- Tailwindcss(PostCSS)
+
+- ESLint
+
 
 ---
 ## Notes
