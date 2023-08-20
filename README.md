@@ -2,27 +2,25 @@
 
 Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
 ---
 
 ## Table of Contents
 
-- [Demo](#demo📦)
-- [Features](#features📢)
-- [Technologies](#technologies🛠️)
-- [Getting Started](#gettingstarted)
-- [Notes](#Notes)
+- Demo 📦
+- Features 📢
+- Technologies 🛠️
+- Getting Started
+- Notes
 
 ---
 
-## Demo📦
+## Demo 📦
 
 📌 (bulding...)
 
 ---
 
-
-## Features📢
+## Features 📢
 
 ✔️ Login
 
@@ -30,23 +28,23 @@ Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.or
 
 ---
 
-## Technologies🛠️
+## Technologies 🛠️
 
-- React
+- [<img width="30" height="30" src="https://img.icons8.com/plasticine/30/react.png" alt="react"/> React](https://react.dev/)
 
-- React-DOM
+- [React-DOM](https://www.npmjs.com/package/react-dom)
 
-- Next
+- [<img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/30/nextjs.png" alt="nextjs"/> Nextjs](https://nextjs.org/)
 
-- Next-Auth
+- [Next-Auth](https://www.npmjs.com/package/next-auth)
 
-- Tailwindcss(PostCSS)
+- [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/> MongoDB Atlas](https://www.mongodb.com/atlas/database)
 
-- ESLint
+- [<img width="30" height="30" src="https://img.icons8.com/color/30/tailwindcss.png" alt="tailwindcss"/> Tailwindcss](https://tailwindcss.com/) (PostCSS)
 
+- [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-eslint-pluggable-and-configurable-linter-tool-for-identifying-and-reporting-on-patterns-in-javascript-logo-color-tal-revivo.png" alt="eslint pluggable and configurable linter tool for identifying and reporting on patterns in javascript"/> ESLint](https://eslint.org/)
 
 ---
-
 
 ## Getting Started
 
