@@ -1,4 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# E-commerce admin panel
+
+Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+---
+
+## Table of Contents
+
+- [Demo](#demo📦)
+- [Features](#features📢)
+- [Notes](#Notes)
+
+---
+
+## Demo📦
+
+📌 (bulding...)
+
+---
+
+
+## Features📢
+
+✔️ React-DOM
+
+---
+## Notes
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+
+
+---
+---
 
 ## Getting Started
 
