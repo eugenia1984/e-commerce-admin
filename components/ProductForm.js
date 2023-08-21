@@ -32,9 +32,14 @@ export default function ProductForm({
     const files = e.target?.files
     if (files?.length > 0) {
       const data = new FormData()
-      files.forEach(file =>  data.append('file', file))
-      const res = await axios.post('/api/upload', data)
-      console.log(console.data)
+      for(const file of files ) {
+        data.append('file', file)
+      }
+      const res = await fetch('/api/upload', {
+        method: 'POST',
+        body: data 
+      })
+      console.log(res)
     }
   }
 
