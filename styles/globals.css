@@ -6,11 +6,31 @@ h1 {
   @apply text-blue-900 mb-2 text-xl;
 }
 
-/* Button */
+/* Buttons */
 .btn-primary {
   @apply bg-blue-900 text-white px-4 py-1 rounded-md;
 }
 
+.btn-red,
+.btn-default {
+  @apply px-4 py-1 rounded-md text-white;
+}
+
+.btn-red {
+  @apply bg-red-800;
+}
+
+.btn-red:hover {
+  @apply bg-red-900;
+}
+
+.btn-default {
+  @apply bg-gray-500;
+}
+
+.btn-default:hover {
+  @apply bg-gray-600;
+}
 /* Forms */
 input, 
 textarea {
@@ -25,4 +45,21 @@ textarea:focus {
 
 label {
   @apply text-blue-900;
+}
+
+/* Table*/
+table.basic {
+  @apply w-full;
+}
+
+table.basic thead tr td {
+  @apply bg-blue-100
+}
+
+table.basic tr td {
+  @apply border border-blue-300 p-1;
+}
+
+table.basic a {
+  @apply bg-blue-900 text-white text-sm py-1 px-2 rounded-md inline-flex gap-2 mr-1;
 }
