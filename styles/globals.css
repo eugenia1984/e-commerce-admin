@@ -3,17 +3,21 @@
 @tailwind utilities;
 
 h1 {
-  @apply text-blue-900 mb-2 text-xl;
+  @apply text-blue-900 mb-2 text-xl font-bold;
 }
 
 /* Buttons */
 .btn-primary {
-  @apply bg-blue-900 text-white px-4 py-1 rounded-md;
+  @apply bg-blue-900 text-white px-4 py-2 rounded-md;
+}
+
+.btn-primary:hover {
+  @apply bg-blue-800;
 }
 
 .btn-red,
 .btn-default {
-  @apply px-4 py-1 rounded-md text-white;
+  @apply px-4 py-2 text-white rounded-md;
 }
 
 .btn-red {
@@ -31,6 +35,7 @@ h1 {
 .btn-default:hover {
   @apply bg-gray-600;
 }
+
 /* Forms */
 input, 
 textarea {
@@ -40,11 +45,11 @@ textarea {
 
 input:focus,
 textarea:focus {
-  @apply border-blue-800;
+  @apply border-green-700;
 }
 
 label {
-  @apply text-blue-900;
+  @apply text-blue-900 font-medium;
 }
 
 /* Table*/
@@ -53,13 +58,25 @@ table.basic {
 }
 
 table.basic thead tr td {
-  @apply bg-blue-100
+  @apply bg-green-100
 }
 
 table.basic tr td {
-  @apply border border-blue-300 p-1;
+  @apply border border-green-500 p-2;
 }
 
 table.basic a {
-  @apply bg-blue-900 text-white text-sm py-1 px-2 rounded-md inline-flex gap-2 mr-1;
+  @apply bg-green-900 text-white text-sm py-1 px-2 rounded-md inline-flex gap-2 mr-2;
+}
+
+table.basic a:hover {
+  @apply bg-green-700 text-white text-sm py-1 px-2 rounded-md inline-flex gap-2 mr-2;
+}
+
+table.basic a.delete {
+  @apply bg-red-900 text-white text-sm py-1 px-2 rounded-md inline-flex gap-2 mr-1;
+}
+
+table.basic a.delete:hover {
+  @apply bg-red-700 text-white text-sm py-1 px-2 rounded-md inline-flex gap-2 mr-1;
 }

@@ -42,6 +42,8 @@ Hi, wellcome to my e-commerce admin panel. This is a [Next.js](https://nextjs.or
 
 - [mongoose](https://mongoosejs.com/)
 
+- [multiparty](https://www.npmjs.com/package/multiparty)
+
 - [axios](https://axios-http.com/docs/intro)
 
 - [<img width="30" height="30" src="https://img.icons8.com/color/30/tailwindcss.png" alt="tailwindcss"/> Tailwindcss](https://tailwindcss.com/) (PostCSS)

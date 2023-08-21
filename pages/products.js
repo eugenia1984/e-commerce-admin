@@ -17,7 +17,7 @@ export default function Products() {
       <Link className="btn-primary" href={'/products/new'}>
         Add new products
       </Link>
-      <table className="basic mt-4">
+      <table className="basic mt-6">
         <thead>
           <tr>
             <td>Product name</td>
@@ -46,7 +46,10 @@ export default function Products() {
                   </svg>
                   Edit
                 </Link>
-                <Link href={'/products/delete/' + product._id}>
+                <Link
+                  href={'/products/delete/' + product._id}
+                  className="delete"
+                >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
